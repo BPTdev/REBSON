@@ -1,0 +1,3 @@
+Tout les test se sont bien dérouler, le menu est un peu récalcitrant.
+Après être aller dans l'aide, si on y retourne elle vat s'afficher, mais lorsque l'on va vouloir
+quitter elle vas quitter le programme entier.
