@@ -1,0 +1,11 @@
+Fonctions si besoin REBSON
+
+int stringcontainchar(char string[50], char chartest) { //est-ce qu'un caractère est dans un chaine
+    printf("longueur chaine = %d", strlen(string));
+    for (int i = 0; i < strlen(string); ++i) {
+        if (string[i] == chartest) {
+            return 1;    //le caractère existe dans la chaine
+        }
+    }
+    return 0;   //le caractère n'existe PAS dans la chaine
+}
