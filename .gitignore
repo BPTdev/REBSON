@@ -1,0 +1,15 @@
+*.xml
+*.cbp
+*.cmake
+*.iml
+*.log
+*.name
+Makefile
+CMakeCache.txt
+code/BPTwork-REBSON/cmake-build-debug/CMakeFiles/*
+code/SRDwork-REBSON/cmake-build-debug/CMakeFiles/*
+code/RESBON-total/cmake-build-debug/CMakeFiles/*
+*/cmake-build-debug/CMakeCache.txt
+code/RESBON-total/.idea/*
+code/SRDwork-REBSON/.idea/*
+code/BPTwork-REBSON/.idea/*
