@@ -7,11 +7,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+#include <math.h>
 
 //Toutes les constantes:
 #define timebeforehelp 5000 //temps avant d'afficher l'aide.
 #define charnbmaxpseudo 20  //nombre de caractères max pour le pseudo.
+#define casebatoparpers 10// defini le nombre de cases bateaux par personnes
+#define rappcaseplayandtot  5//defini le rapport entre les nombre de case des joueurs et le total des case
 
 //Toutes les variables globales:
 char pseudo[50];    //pseudo du joueur sur cet ordinateur
@@ -19,7 +21,27 @@ char pseudo[50];    //pseudo du joueur sur cet ordinateur
 
 //Toutes les fonctions (avant le main !):
 
-
+int larg_grille(int nbjoueur){
+    /* taille bateaux :
+ * 1,
+ * 2,
+ * 3,
+ * 4
+ * total 10 case bateaux par personne
+ * rapport nb case personne / case total = 20%
+ * si 4 joueurs case joueurs =40 case grille =~200 case
+ * 200 case = grille de 15/15
+ * calcul largeur: 200^(1/2)
+ * calcul case total: (nb_joueurs * 10)*5 => 4*10*5
+ * calcul entier: (4*10*5)^(1/2)*/
+    float largnotarr = 0;
+    int res = 0;
+    largnotarr = (nbjoueur*casebatoparpers*rappcaseplayandtot);
+    largnotarr = sqrt(largnotarr);
+    res = round(largnotarr) ;
+    printf(" il faut une grille de %d cases de cote\n",res);
+    system("pause");
+}//calcule
 
 
 int main() {
