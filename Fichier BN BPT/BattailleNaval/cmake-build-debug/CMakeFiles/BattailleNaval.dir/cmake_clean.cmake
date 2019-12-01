@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/BattailleNaval.dir/main.c.obj"
-  "BattailleNaval.pdb"
   "BattailleNaval.exe"
   "BattailleNaval.exe.manifest"
+  "BattailleNaval.pdb"
+  "CMakeFiles/BattailleNaval.dir/main.c.obj"
   "libBattailleNaval.dll.a"
 )
 
