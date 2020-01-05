@@ -1,0 +1,17 @@
+"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=C:/MinGW/bin/c++filt.exe -G "CodeBlocks - MinGW Makefiles" C:\Users\PC_Samuel_01\Documents\GitHub\REBSON\code\BPTwork-REBSON
+-- The C compiler identification is GNU 8.2.0
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_CXX_COMPILER
+
+
+-- Build files have been written to: C:/Users/PC_Samuel_01/Documents/GitHub/REBSON/code/BPTwork-REBSON/cmake-build-debug

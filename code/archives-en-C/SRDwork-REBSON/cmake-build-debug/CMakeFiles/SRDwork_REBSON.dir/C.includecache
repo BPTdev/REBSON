@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/PC_Samuel_01/Documents/GitHub/REBSON/code/SRDwork-REBSON/main.c
+stdio.h
+-
+windows.h
+-
+
