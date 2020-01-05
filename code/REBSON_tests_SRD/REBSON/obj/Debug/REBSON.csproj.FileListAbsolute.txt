@@ -1,0 +1,9 @@
+C:\Users\PC_Samuel_01\Documents\GitHub\REBSON\code\REBSON\REBSON\bin\Debug\REBSON.exe.config
+C:\Users\PC_Samuel_01\Documents\GitHub\REBSON\code\REBSON\REBSON\bin\Debug\REBSON.exe
+C:\Users\PC_Samuel_01\Documents\GitHub\REBSON\code\REBSON\REBSON\bin\Debug\REBSON.pdb
+C:\Users\PC_Samuel_01\Documents\GitHub\REBSON\code\REBSON\REBSON\obj\Debug\REBSON.csprojAssemblyReference.cache
+C:\Users\PC_Samuel_01\Documents\GitHub\REBSON\code\REBSON\REBSON\obj\Debug\REBSON.frmRebson.resources
+C:\Users\PC_Samuel_01\Documents\GitHub\REBSON\code\REBSON\REBSON\obj\Debug\REBSON.Properties.Resources.resources
+C:\Users\PC_Samuel_01\Documents\GitHub\REBSON\code\REBSON\REBSON\obj\Debug\REBSON.csproj.GenerateResource.cache
+C:\Users\PC_Samuel_01\Documents\GitHub\REBSON\code\REBSON\REBSON\obj\Debug\REBSON.exe
+C:\Users\PC_Samuel_01\Documents\GitHub\REBSON\code\REBSON\REBSON\obj\Debug\REBSON.pdb
