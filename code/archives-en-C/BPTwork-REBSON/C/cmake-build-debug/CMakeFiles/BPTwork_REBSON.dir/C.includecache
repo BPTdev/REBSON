@@ -6,11 +6,17 @@
 
 #IncludeRegexTransform: 
 
-D:/CPNV/GitHub/REBSON/code/BPTwork-REBSON/main.c
+D:/CPNV/GitHub/REBSON/code/archives-en-C/BPTwork-REBSON/C/main.c
 stdio.h
 -
 stdlib.h
 -
 math.h
+-
+windows.h
+-
+conio.h
+-
+time.h
 -
 
